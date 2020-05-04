@@ -1,1 +1,1 @@
-# Basic-Image-Classification-with-OpenCV
+# Image-Basics-With-OpenCV
